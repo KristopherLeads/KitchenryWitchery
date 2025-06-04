@@ -1,6 +1,6 @@
 **🚨 This tool has been moved to its own [repository](https://github.com/KristopherLeads/KitchenryWitchery). This version is archived for reference purposes, but no active development is underway. 🚨**
 
-# Kitchen Measurement Converter
+# KitchenryWitchery
 ## Usage
 This tool is used to convert measurements from one amount to another when you don't have common measurements like 1/2 cup.
 
