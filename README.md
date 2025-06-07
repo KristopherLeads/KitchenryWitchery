@@ -1,4 +1,7 @@
 # KitchenryWitchery
+
+![KitchenryWitchery](https://github.com/user-attachments/assets/3b5f9a4f-d394-470f-80dd-6b5f8ea22399)
+
 ## Usage
 This tool is used to convert measurements from one amount to another when you don't have common measurements like 1/2 cup.
 
